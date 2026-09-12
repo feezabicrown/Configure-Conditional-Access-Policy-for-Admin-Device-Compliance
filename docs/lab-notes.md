@@ -46,4 +46,7 @@ Microsoft Entra blocked access and displayed a compliance requirement message.
 
 ![](../test-policy-enforcement.png)
 
+### Conclusion
+
+I successfully configured a Conditional Access policy requiring administrative users to access protected resources from compliant devices. Testing confirmed that access was denied when the device did not meet compliance requirements.
 
