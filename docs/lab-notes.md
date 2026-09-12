@@ -45,7 +45,7 @@ I confirmed that the policy appeared in the Conditional Access policy list with 
 I tested the policy using Arjun Patel, who was assigned the Cloud Application Administrator role. When attempting to access an administrative resource from a non-compliant device, 
 Microsoft Entra blocked access and displayed a compliance requirement message.
 
-![](../Screnshots/test-policy-enforcement.png)
+![](../Screenshots/test-policy-enforcement.png)
 
 ## Conclusion
 
