@@ -12,7 +12,7 @@ For this task, I created a Conditional Access policy that requires administrativ
 
 ## Step 1: Open Conditional Access
 
-I signed in to the Microsoft Entra Admin Center and navigated to **Conditional Access** and created a CA policy for administrator. 
+I signed in to the Microsoft Entra Admin Center and navigated to **Conditional Access** and created a CA policy for administrator.
 
 ![](../Conditional-access-policy-for-administrators.png)
 
