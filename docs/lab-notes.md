@@ -16,7 +16,8 @@ I signed in to the Microsoft Entra Admin Center and navigated to **Conditional A
 
 ![](../Conditional-access-policy-for-administrators.png)
 
-Step 4: Select administrative users and target resources
+
+## Step 3: Create a New Policy, Select administrative users and target resources
 I selected All Resources (formerly 'All cloud apps') Under Target Resources to ensure admin users satisfy the device compliance requirement whenever they access protected resources. 
 
 ![](../select-target-resources.png)
