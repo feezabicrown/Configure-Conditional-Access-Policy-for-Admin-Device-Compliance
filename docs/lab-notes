@@ -1,1 +1,17 @@
+# Configure Conditional Access Policy for Admin Device Compliance
+
+## Overview
+
+For this task, I created a Conditional Access policy that requires administrative users to sign in from compliant devices. This helps ensure that privileged accounts can only access administrative resources from devices that meet organizational security requirements.
+
+## Objective
+
+- Create a Conditional Access policy for administrators.
+- Require device compliance before access is granted.
+- Enable and verify the policy configuration.
+
+## Step 1: Open Conditional Access
+
+I signed in to the Microsoft Entra Admin Center and navigated to **Conditional Access** and created a CA policy for administrator. 
+
 
